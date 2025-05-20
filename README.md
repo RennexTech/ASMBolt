@@ -51,9 +51,11 @@ Basically: it's Sublime Text had a baby with CMD after a drunken night of linkin
 
 ## 👀 Screenshot
 
-![asm-bolt-screenshot](./screenshots/zap_zap_ui.png)
+![image](https://github.com/user-attachments/assets/0027c136-8c7f-4802-9c3d-0578839cb4ab)
+
 
 Yes. It zaps.
+![image](https://github.com/user-attachments/assets/1e403894-710a-46ad-9883-c6f30b80ab90)
 
 ---
 
@@ -61,14 +63,14 @@ Yes. It zaps.
 
 Because making 4 different assembly compilers play nice together sounded easier than it actually was.  
 And because I thought C# would be "chill" and "visual" and "fun."  
-Spoiler: it was not.
+Spoiler: it was not.🤧💀💀
 
 ---
 
 ## 🪦 Future Plans
 
 - Actually make it compile code
-- Maybe build a Python version and pretend this one never happened
+- Or Maybe build a Python version and pretend this one never happened
 - Get a job so I can afford therapy for this experience
 
 ---
@@ -76,9 +78,7 @@ Spoiler: it was not.
 ## ⚠️ WARNING
 
 This app might:
-- Cry if your compilers are missing
-- Gaslight you with fake success messages
-- Launch Notepad if it panics (not confirmed but possible)
+- Cry if your compilers are missing, if you can stictch the C# with the winforms UI, you'll be so damn happy with the results.
 
 ---
 
