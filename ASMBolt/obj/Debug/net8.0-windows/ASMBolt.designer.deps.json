@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "fernandreu.ScintillaNET/4.2.0": {
+        "runtime": {
+          "lib/net6.0-windows7.0/ScintillaNET.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "fernandreu.ScintillaNET/4.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-68J5Asevo2rX6ImPgajNSh1ZXGO6DKV56eyOXZsdr6uWmt6RZKCGpk29Cd6SPjk0rqzes4kJxWVegZ0qi/ZQDw==",
+      "path": "fernandreu.scintillanet/4.2.0",
+      "hashPath": "fernandreu.scintillanet.4.2.0.nupkg.sha512"
+    }
+  }
+}
