@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASMBolt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df1b5a6392bf97dffd7b5d7570cfdb54c6f1598e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASMBolt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASMBolt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

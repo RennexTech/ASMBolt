@@ -19,3 +19,4 @@ D:\VisualStudio\ASMBolt\ASMBolt\obj\Debug\net8.0-windows\ref\ASMBolt.dll
 D:\VisualStudio\ASMBolt\ASMBolt\obj\Debug\net8.0-windows\ASMBolt.MainForm.resources
 D:\VisualStudio\ASMBolt\ASMBolt\obj\Debug\net8.0-windows\ASMBolt.Properties.Resources.resources
 D:\VisualStudio\ASMBolt\ASMBolt\obj\Debug\net8.0-windows\ASMBolt.UserInterface.AboutForm.resources
+D:\VisualStudio\ASMBolt\ASMBolt\obj\Debug\net8.0-windows\ASMBolt.sourcelink.json
