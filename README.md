@@ -36,7 +36,7 @@ Basically: it's Sublime Text had a baby with CMD after a drunken night of linkin
 
 ## 🔌 Requirements
 
-- Windows 🪟 (probably hates Linux)
+- Windows (the tool hates Linux)
 - Visual Studio (you’ll need it to see the beautiful mess)
 - MASM / NASM / FASM / GAS installed somewhere... good luck
 - Tolerance for pain
@@ -45,7 +45,7 @@ Basically: it's Sublime Text had a baby with CMD after a drunken night of linkin
 
 ## 🧪 Demo
 
-> *Coming soon, maybe, if I stop electrocuting myself in WinForms.*
+> *Coming soon, maybe, if I stop electrocuting myself in WinForms - or even learn it properly(I just built from tutorials on YT).*
 
 ---
 
@@ -62,12 +62,14 @@ Yes. It zaps.
 ## 🧯 Why tho?
 
 Because making 4 different assembly compilers play nice together sounded easier than it actually was.  
+I think am going to make the installer for this app carry all assemblers and auto-install them, that'll save the confused users some time.
+I know we like watching 5 second tiktoks and applying that rule everywhere. Don't worry, the auto-install will just tell you to click next.
 And because I thought C# would be "chill" and "visual" and "fun."  
 Spoiler: it was not.🤧💀💀
 
 ---
 
-## 🪦 Future Plans
+## Future Plans
 
 - Actually make it compile code
 - Or Maybe build a Python version and pretend this one never happened
