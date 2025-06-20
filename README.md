@@ -1,5 +1,7 @@
 # ⚡ ASM⚡BOLT – The Multi-Assembler Compilation Doomsday Tool ⚡
 
+Let's fix this: I was told drag and drop with C# will be super simple. Just poof, and some few backend logic, and bam! The project is set. 
+I went ahead saying "It's just drag and freaking drop", but once I finished dropping🤣🤣I opened the backend and realized, ooh my god, thousands of lines. Am out, for now...
 Ever wanted to compile MASM, NASM, FASM, and GAS all in one app?
 
 Me too.  
