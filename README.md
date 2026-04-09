@@ -1,89 +1,43 @@
-# ⚡ ASM⚡BOLT – The Multi-Assembler Compilation Doomsday Tool ⚡
+**⚡ ASM⚡BOLT
+**
 
-Let's fix this: I was told drag and drop with C# will be super simple. Just poof, and some few backend logic, and bam! The project is set. 
-I went ahead saying "It's just drag and freaking drop", but once I finished dropping🤣🤣I opened the backend and realized, ooh my god, thousands of lines. Am out, for now...
-Ever wanted to compile MASM, NASM, FASM, and GAS all in one app?
+So… I thought building this in C# would be easy.
+Like, drag and drop, add a few lines, done.
 
-Me too.  
-So I built this thing. Sort of. Almost. Not really.  
-But it has a **logo**, a **GUI**, and just enough chaos to make your CPU sweat.
+Yeah… no.
+I dragged. I dropped. Then I opened the backend… and saw a whole novel. I closed Visual Studio immediately 😭
 
----
+🧠 What is this?
 
-## 🧠 What is this?
+It’s supposed to be an app that lets you work with different assembly types (MASM, NASM, FASM, GAS) in one place.
 
-**ASM⚡BOLT** is a WinForms-based Frankenstein app designed to:
+Right now?
+It’s more like… a very good-looking idea.
 
-- 🕹️ Detect MASM / NASM / FASM / GAS files
-- 📂 Drag & drop folders like a boss
-- 🎨 Auto-theme dark/light (cuz we’re fancy)
-- 🔧 Detect compilers and scream if they’re missing
-- 🪵 Show colored compilation output because plain text is for peasants
+💻 What it can do
+Detect file types (kinda works 👍)
+Drag and drop files (this part is actually nice)
+Dark mode (very important 😌)
+Shows output with colors (makes errors look cool)
+Compile code ❌ (we don’t talk about that yet)
+🔌 What you need
+Windows
+Visual Studio
+Assembly compilers… somewhere on your PC (good luck finding them again)
+🧯 Why did I make this?
 
-Basically: it's Sublime Text had a baby with CMD after a drunken night of linking `.obj` files.
+Because I thought it would be simple.
+It was not simple.
 
----
+Now I’m thinking:
 
-## 💻 Features (Some of which actually work)
+maybe I fix it
+maybe I rewrite it
+maybe I pretend it never happened
 
-| Feature                  | Status        |
-|--------------------------|---------------|
-| Syntax detection         | ✅ Functional-ish |
-| File drop support        | ✅ Fancy AF     |
-| Dark mode                | ✅ Dark as my soul |
-| Compilation output       | ✅ With lightning bolts ⚡ |
-| Actually compiling stuff | 🚧 LOL         |
+We’ll see 😅
 
----
+⚠️ Status
 
-## 🔌 Requirements
-
-- Windows (the tool hates Linux)
-- Visual Studio (you’ll need it to see the beautiful mess)
-- MASM / NASM / FASM / GAS installed somewhere... good luck
-- Tolerance for pain
-
----
-
-## 🧪 Demo
-
-> *Coming soon, maybe, if I stop electrocuting myself in WinForms - or even learn it properly(I just built from tutorials on YT).*
-
----
-
-## 👀 Screenshot
-
-![image](https://github.com/user-attachments/assets/0027c136-8c7f-4802-9c3d-0578839cb4ab)
-
-
-Yes. It zaps.
-![image](https://github.com/user-attachments/assets/1e403894-710a-46ad-9883-c6f30b80ab90)
-
----
-
-## 🧯 Why tho?
-
-Because making 4 different assembly compilers play nice together sounded easier than it actually was.  
-I think am going to make the installer for this app carry all assemblers and auto-install them, that'll save the confused users some time.
-I know we like watching 5 second tiktoks and applying that rule everywhere. Don't worry, the auto-install will just tell you to click next.
-And because I thought C# would be "chill" and "visual" and "fun."  
-Spoiler: it was not.🤧💀💀
-
----
-
-## Future Plans
-
-- Actually make it compile code
-- Or Maybe build a Python version and pretend this one never happened
-- Get a job so I can afford therapy for this experience
-
----
-
-## ⚠️ WARNING
-
-This app might:
-- Cry if your compilers are missing, if you can stictch the C# with the winforms UI, you'll be so damn happy with the results.
-
----
-
-## 🙃 I TRIED 💀💀
+I tried.
+That’s what matters 💀
