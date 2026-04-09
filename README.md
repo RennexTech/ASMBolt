@@ -3,6 +3,8 @@ ASM⚡BOLT
 So… I thought building this in C# would be easy.
 Like, drag and drop, add a few lines, done.
 
+<img width="1680" height="1010" alt="image" src="https://github.com/user-attachments/assets/59ae7d7c-30b2-4ed1-a552-0d50dd22fb90" />
+
 Yeah… no.
 I dragged. I dropped. Then I opened the backend… and saw a whole novel. I closed Visual Studio immediately 😭
 
