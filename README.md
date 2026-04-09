@@ -1,4 +1,4 @@
-**⚡ ASM⚡BOLT **
+ASM⚡BOLT
 
 So… I thought building this in C# would be easy.
 Like, drag and drop, add a few lines, done.
@@ -12,27 +12,26 @@ It’s supposed to be an app that lets you work with different assembly types (M
 Right now?
 It’s more like… a very good-looking idea.
 
-😌 What it can do
-Detect file types (kinda works)
-Drag and drop files (this part is actually nice)
-Dark mode (very important)
-Shows output with colors (makes errors look cool)
-Compile code  (we don’t talk about that yet)
+What it can do😌  
+Detect file types (kinda works).
+Drag and drop files (this part is actually nice).
+Dark mode (very important).
+Shows output with colors (makes errors look cool).
+Compile code  (we don’t talk about that yet).
 
-🔌 What you need
-Windows
-Visual Studio
-Assembly compilers… somewhere on your PC (good luck finding them again)
+What you need🔌 
+Windows.
+Visual Studio.
+Assembly compilers… somewhere on your PC (good luck finding them again).
 
-🧯 Why did I make this?
+Why did I make this?🧯
 Because I thought it would be simple.
 It was not simple.
 Now I’m thinking:
-maybe I fix it
-maybe I rewrite it
-maybe I pretend it never happened
-We’ll see
+maybe I fix it.
+maybe I rewrite it in python and pretend this one never happened.
+We’ll see.
 
-⚠️ Status
+Status⚠️
 I tried.
 That’s what matters 💀
